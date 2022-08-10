@@ -1,7 +1,7 @@
 # Upside Technical Assessment
 ***
 ***
-### Setup and Run
+### Feedback and Running test
 
 Thank you to the team at Upside for taking the time to review my assessment submission. This was quite an exercise for me since its been a very long time since I last used python and since I have done any testing with Android.
 
@@ -21,4 +21,9 @@ Within the images folder of this project you will find screenshots of the Allure
 5. Copy apk file into android_apps directory within repo
 6. Open terminal, input pytest and hit enter. 
 
+For Allure Report
+1. Right Click on the Reports folder within the tests directory
+2. Copy path
+3. In cmd run the following: allure serve *Paste Path Here*
+4. Allure report will open in browser
 ***
